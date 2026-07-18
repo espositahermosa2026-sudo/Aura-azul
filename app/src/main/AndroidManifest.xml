@@ -1,3 +1,6 @@
+<service android:name=".FloatingService"
+         android:enabled="true"
+         android:exported="false" />
 # (Pega el código, Ctrl+O, Enter, Ctrl+X)
 
 nano build.gradle
