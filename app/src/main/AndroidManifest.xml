@@ -1,0 +1,9 @@
+# (Pega el código, Ctrl+O, Enter, Ctrl+X)
+
+nano build.gradle
+# (Pega el código, Ctrl+O, Enter, Ctrl+X)
+git add .
+git commit -m "Estructura inicial Aura Azul"
+git branch -M main
+git push -u origin main
+
